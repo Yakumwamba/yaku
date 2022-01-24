@@ -1,36 +1,4 @@
-# Welcome to dapp-starter 👋
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
-
-> Opinionated Dapp Starter Template
-
-## 🏠 [Homepage](https://dapp-starter.productsway.com)
-
-## ✨ [Demo](https://dapp-starter.productsway.com)
-
-## Screenshot
-
-![./screenshot.png](./screenshot.png)
-
-### Connect to MetaMask
-
-![https://gyazo.com/6b8f75171de1fab24de552ff7930f4b8.gif](https://gyazo.com/6b8f75171de1fab24de552ff7930f4b8.gif)
-
-### Wallet Connect
-
-![https://gyazo.com/2995c3a2c4bdbda806821839826449dc.gif](https://gyazo.com/2995c3a2c4bdbda806821839826449dc.gif)
-
-### Show balance and sign message
-
-![https://gyazo.com/8e8ca7c89193d6f1463081bcd41c587e.gif](https://gyazo.com/8e8ca7c89193d6f1463081bcd41c587e.gif)
 
 ## Features
 
